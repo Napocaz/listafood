@@ -1,2 +1,5 @@
 shaorma 
 pizza
+sushi
+onigiri
+ramen
