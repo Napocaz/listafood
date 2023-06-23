@@ -1,7 +1,8 @@
 shaorma 
-pizza
 sushi
-onigiri
+onigiri2
+onigiri3
+onigiri4
 ramen
 cascaval pane
 garlic bread
